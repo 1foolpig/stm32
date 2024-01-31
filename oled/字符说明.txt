@@ -1,0 +1,1 @@
+如果要找显示图片的函数，到STM32text里找文件electricity_oled，然后找.c和oledfont.h就行
